@@ -2,6 +2,8 @@
 
 [![](https://jitpack.io/v/Guilherme-HRamos/OwlBottomSheet.svg)](https://jitpack.io/#Guilherme-HRamos/OwlBottomSheet)
 
+<img src="https://github.com/Guilherme-HRamos/OwlBottomSheet/blob/master/ezgif.com-crop.gif"/>
+
 ## Adding the project
 
 Add it in your root build.gradle at the end of repositories:
