@@ -18,7 +18,7 @@ allprojects {
 Add the dependency:
 ```
 dependencies {
-	        implementation 'com.github.Guilherme-HRamos:OwlBottomSheet:1.0'
+	        implementation 'com.github.Guilherme-HRamos:OwlBottomSheet:1.01'
 	}
 ```
 
